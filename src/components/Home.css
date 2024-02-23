@@ -1,0 +1,18 @@
+/* src/components/Home.css */
+.about-section,
+.contact-section,
+.products-section,
+.gallery-section {
+  background-color: #0c798550;
+  padding: 90px 0;
+  text-align: center;
+}
+
+.about-section h2,
+.contact-section h2,
+.products-section h2,
+.gallery-section h2 {
+  margin-bottom: 30px;
+}
+
+/* Add more styles as needed */
